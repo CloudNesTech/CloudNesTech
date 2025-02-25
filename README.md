@@ -11,7 +11,7 @@
 Hello! 👋 I'm Nestor Dono, an experienced IT/Digital Project Manager with a strong passion for cloud technologies and AI. My journey is focused on getting and leveraging Cloud skills to provide support to others on their own Cloud journey. I've recently earned my AWS Certified Cloud Practitioner certification and am actively expanding my Cloud skills. 📈
 
 <div align="center">
-  <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-AI-Practitioner_badge_300x300.85cea45137696692de99a72934f6ddb81f82fc12.png" alt="AWS Certified Cloud Practitioner Badge" /> 🏆
+  <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-AI-Practitioner_badge_300x300.85cea45137696692de99a72934f6ddb81f82fc12.png" alt="AWS Certified Cloud Practitioner Badge" />
 </div>
 
 My background in leading complex IT transformations, managing stakeholders, and driving successful project outcomes encourages me to discover new technologies. 💡 I'm eager to leverage my skills to guide others through their cloud adoption journey. 🤝
